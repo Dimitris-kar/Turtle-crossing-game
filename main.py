@@ -1,3 +1,4 @@
+# all the imports
 from turtle import Screen
 from player import Player
 from score import Score
